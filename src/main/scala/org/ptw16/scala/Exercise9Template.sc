@@ -1,5 +1,8 @@
 import scala.collection.mutable.ListBuffer
 
+// TODO: Convert into a function
+// TODO: Return an immutable collection instead
+
 val cols = new ListBuffer[String]()
 val lineChars = line.toCharArray
 val lineLength = lineChars.length
@@ -30,4 +33,4 @@ while (currPos < lineLength) {
   currPos = currPos + 1
 }
 cols += currColumn.toString.trim
-cols.toList
+cols

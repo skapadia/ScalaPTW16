@@ -16,6 +16,9 @@ project/plugins/project/
 .scala_dependencies
 .worksheet
 
+# Intellij
+.idea
+
 
 .DS_Store
 .AppleDouble

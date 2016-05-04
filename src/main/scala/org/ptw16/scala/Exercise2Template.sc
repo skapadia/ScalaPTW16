@@ -1,5 +1,5 @@
-// Convert to "Yo Philly" in two steps
-// Add a ! at the end
-// Upper case it
-
 "Hello Philadelphia"
+
+// TODO: Convert to "Yo Philly" in two steps
+// TODO: Add a ! at the end
+// TODO: Upper case it

@@ -6,3 +6,15 @@ def tempToDescription(currentTemp: Float): String = {
   else if (currentTemp == 75) "perfect"
   else "yikes"
 }
+
+// TODO: Celsius to Fahrenheit conversion
+
+
+// TODO: Invoke conversion and then pass to tempToDescription
+
+
+// TODO: Build function values
+
+
+// TODO: Use function composition methods in Scala
+// TODO: compose, andThen
