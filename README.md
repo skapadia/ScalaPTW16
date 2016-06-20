@@ -1,5 +1,6 @@
 # ScalaPTW16
-Intro to Scala Workshop
+
+Intro to Scala Workshop: **Please clone this repo and follow the setup instructions BEFORE the workshop**
 
 - docs/intellij-scala-install.md: Setup instructions 
 - docs/IntroToScalaPTW.pdf: Slides
