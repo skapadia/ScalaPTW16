@@ -29,7 +29,7 @@
   - Click Scala
   - Create a sample project called “ScalaSample"
   - Click “Create” next to Scala SDK and then click "Download"
-  - This will download the latest Scala (2.11.8) and SBT (0.13.8) - note this may take some time
+  - This will download the latest Scala (2.11.8 as of this writing) and SBT (0.13.8 as of this writing) - note this may take some time
   - After it completes, make sure “scala-sdk-2.11.8” shows up in the Scala SDK drop down
   - For Project SDK, you need to choose the location where the Java 1.8 SDK was installed
     - On the Mac, by default this will be /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home
